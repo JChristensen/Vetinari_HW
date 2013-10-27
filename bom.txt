@@ -1,0 +1,28 @@
+Partlist exported from C:/Users/Jack/Documents/eagle/projects/vetinari/vetinari.sch at 10/23/2013 12:25:12 PM
+
+Part  Value                  Device                 Package                Description                
+B1    2xAA                   BATTERY-2AAOUTLINE     KEYSTONE-2462-OUTLINE                             
+B2    AA                     BATTERY-AAKEYSTONE-92  BATT-AA-PC-CLIPS                                  
+B3    AA                     BATTERY-AAKEYSTONE-92  BATT-AA-PC-CLIPS                                  
+C1    10uF                   C-USM1206              M1206                  CAPACITOR, American symbol 
+C2    100nF                  C-USM0805              M0805                  CAPACITOR, American symbol 
+C3    10pF                   C-USM0805              M0805                  CAPACITOR, American symbol 
+C4    8.2pF                  C-USM0805              M0805                  CAPACITOR, American symbol 
+C5    100nF                  C-USM0805              M0805                  CAPACITOR, American symbol 
+D1    1PS76SB10              DIODESOD-323F          SOD-323F                                          
+D2    1PS76SB10              DIODESOD-323F-A        SOD-323F-A                                        
+D3    Red 0805               LEDD0805               D0805                  LED                        
+J1    ICSP                   AVR_SPI_PRG_62X3_LOCK  2X3_LOCK               AVR ISP 6 Pin              
+JP1   COIL                   M02PTH                 1X02                   Header 2                   
+JP2   CALIB                  M03LOCK                1X03_LOCK              Header 3                   
+LOGO2 OSHW_LOGO_8MILX0150-NT OSHW_LOGO_8MILX0150-NT OSHW_8X150_NOTEXT                                 
+R1    10K                    R-US_M0805             M0805                  RESISTOR, American symbol  
+R2    4.7K                   R-US_M0805             M0805                  RESISTOR, American symbol  
+R3    4.7K                   R-US_M0805             M0805                  RESISTOR, American symbol  
+R4    75                     R-US_M0805             M0805                  RESISTOR, American symbol  
+R5    75                     R-US_M0805             M0805                  RESISTOR, American symbol  
+R6    1K                     R-US_M0805             M0805                  RESISTOR, American symbol  
+S1    MODE                   10-XXOCT               B3F-10XXOCT            OMRON SWITCH               
+U1    ATtiny84A-SSU          ATTINYX4SO14           SO14                                              
+U2    MCP79412               MCP7941X-SOIC-8        SO08                                              
+Y1    32.768 kHz             CRYSTAL-CITIZEN-CM2XXC CRYSTAL-CITIZEN-CM2XXC                            

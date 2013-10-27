@@ -1,0 +1,103 @@
+Netlist
+
+Exported from vetinari.sch at 10/23/2013 12:24:14 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Net      Part     Pad      Pin        Sheet
+
+GND      B1       NEG      NEG        1
+         B3       N1       P$2        1
+         B3       N2       P$2        1
+         C1       2        2          1
+         C2       2        2          1
+         C3       2        2          1
+         C4       2        2          1
+         C5       2        2          1
+         D1       A        A          1
+         D2       A        A          1
+         D3       K        C          1
+         J1       6        6          1
+         JP2      3        3          1
+         S1       1        S          1
+         S1       2        S1         1
+         U1       14       GND        1
+         U2       3        VBAT       1
+         U2       4        VSS        1
+         Y1       P$2      2          1
+         Y1       P$3      3          1
+
+MFP      JP2      1        1          1
+         U1       5        PB2/INT0   1
+         U2       7        MFP        1
+
+MISO     J1       1        1          1
+         U1       8        PA5/MISO   1
+
+MOSI/SDA J1       4        4          1
+         R3       1        1          1
+         U1       7        PA6/MOSI   1
+         U2       5        SDA        1
+
+N$1      JP1      1        1          1
+         R4       2        2          1
+
+N$2      C4       1        1          1
+         U2       2        X2         1
+         Y1       P$4      4          1
+
+N$3      C3       1        1          1
+         U2       1        X1         1
+         Y1       P$1      1          1
+
+N$4      JP1      2        2          1
+         R5       2        2          1
+
+N$5      D3       A        A          1
+         R6       1        1          1
+
+N$6      B2       N1       P$2        1
+         B2       N2       P$2        1
+         B3       P1       P$1        1
+         B3       P2       P$1        1
+
+PA0      R6       2        2          1
+         U1       13       PA0/ADC0   1
+
+PA1      S1       3        P          1
+         S1       4        P1         1
+         U1       12       PA1/ADC1   1
+
+PA2      D1       K        K          1
+         R4       1        1          1
+         U1       11       PA2/ADC2   1
+
+PA3      D2       K        K          1
+         R5       1        1          1
+         U1       10       PA3/ADC3   1
+
+RESET    J1       5        5          1
+         R1       1        1          1
+         U1       4        RESET      1
+
+SCK/SCL  J1       3        3          1
+         R2       1        1          1
+         U1       9        PA4/SCL    1
+         U2       6        SCL        1
+
+VCC      B1       POS      POS        1
+         B2       P1       P$1        1
+         B2       P2       P$1        1
+         C1       1        1          1
+         C2       1        1          1
+         C5       1        1          1
+         J1       2        2          1
+         R1       2        2          1
+         R2       2        2          1
+         R3       2        2          1
+         U1       1        VCC        1
+         U2       8        VCC        1
+
+XTAL2    JP2      2        2          1
+         U1       3        PB1/XTAL2  1
+

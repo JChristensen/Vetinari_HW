@@ -6,13 +6,13 @@
 *.gtl
 *.gto
 *.gts
-*.txt
 *.gtp
 *.gbp
 *.ger
 *.gpi
 *.dri
 *.xln
+vetinari.txt
 
 #Eagle files
 *.epf
@@ -23,10 +23,8 @@
 
 #Other files
 *.zip
-*.png
 *.xls
 Thumbs.db
 
 #always include
 !schematic.png
-!ReadMe.txt
